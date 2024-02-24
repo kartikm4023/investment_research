@@ -1,0 +1,9 @@
+langchain
+streamlit
+openai
+bs4
+yfinance
+pypdf
+langsmith
+faiss-cpu
+tiktoken
